@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "269199471462",
+    "project_id": "crud-app17",
+    "storage_bucket": "crud-app17.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269199471462:android:385560b07c7c5d1f1f8ea7",
+        "android_client_info": {
+          "package_name": "com.ceduc.crud_app17"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRv8o_raOh_5xiCUSEGdn7EcUsYRRxg88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
